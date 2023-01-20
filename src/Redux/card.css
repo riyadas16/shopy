@@ -1,0 +1,15 @@
+.card{
+   
+    transition: transform .2s; 
+    transform: scale(0.8);
+    width: 200px;
+  height: 200px;
+ 
+  
+}
+.container{
+    margin: 2px;
+    padding: 20px;
+}
+.card:hover {
+    transform: scale(0.9); }
